@@ -1,0 +1,29 @@
+{
+    "users" :[
+        {
+            "id" : 1,
+            "name" : "Just a random",
+            "email" : "doesnotexists@gmail.com",
+            "xp" : 0,
+            "highscore" : 0
+        }
+    ],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://i0.wp.com/miro.medium.com/max/700/1*NQjTGh2DYK_6JHxC5e-hdQ.png?w=1320&ssl=1"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://i0.wp.com/miro.medium.com/max/700/1*NQjTGh2DYK_6JHxC5e-hdQ.png?w=1320&ssl=1"
+    },
+    {
+      "name": "Colors",
+      "image": "https://i0.wp.com/miro.medium.com/max/700/1*NQjTGh2DYK_6JHxC5e-hdQ.png?w=1320&ssl=1",
+      "id": 3
+    }
+  ]
+}
