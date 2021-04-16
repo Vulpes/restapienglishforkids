@@ -9,6 +9,15 @@
         }
     ],
 
+    "words" :[
+        {
+            "id" : 1,
+            "word" : "Random",
+            "traslation" : "Aleatório",
+            "categories": "Families"
+        }
+    ],
+
   "categories": [
     {
       "id": 1,
